@@ -23,7 +23,8 @@ Provided time-trend analysis to monitor patient flow and peak load periods.
 
 # 📈 Dashboard Preview
 
-(Add a screenshot of your dashboard here once you upload it)
+<img width="1270" height="741" alt="image" src="https://github.com/user-attachments/assets/32232b97-2cc8-454c-a445-bc923c579ba3" />
+
 
 # 🚀 Business Impact
 
